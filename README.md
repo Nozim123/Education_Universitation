@@ -1,6 +1,7 @@
-# Welcome to your Lovable project
+# Welcome to your Education project
 
-<img width="1352" height="629" alt="image" src="https://github.com/user-attachments/assets/1cbd8ff8-a32d-4412-989b-381fddb9f88e" />
+<img width="1348" height="622" alt="image" src="https://github.com/user-attachments/assets/d073e735-d3e7-4157-a34e-fc65cfe643c1" />
+
 
 
 ## Demo project
