@@ -24,6 +24,14 @@ npm i
 npm run dev
 ```
 
+##Add .env
+
+```
+VITE_SUPABASE_PROJECT_ID=""
+VITE_SUPABASE_PUBLISHABLE_KEY=""
+VITE_SUPABASE_URL=""
+```
+
 **Edit a file directly in GitHub**
 
 - Navigate to the desired file(s).
